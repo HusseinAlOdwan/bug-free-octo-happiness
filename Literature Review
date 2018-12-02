@@ -1,0 +1,128 @@
+\documentclass[a4paper,16pt]{article}
+\begin{document}
+\title{Literature Review: Does loss aversion exist in small and large stake gambles?}
+\author{Hussein Fayez Al-Odwan}
+\date{\today}
+\maketitle
+\addtolength{\parskip}{\baselineskip}
+\section{Introduction}
+
+\renewcommand{\baselinestretch}{1.5}
+
+
+
+This literature review will be looking into whether loss aversion exists in small stakes and large stakes under risk and uncertainty using different examples and data; even though a paper published in 2008 presents empirical evidence that loss aversion does not exist in small stake gambles (Erev, I., Ert, E. and Yechiam, E., 2008). The objective of this research question is to measure the gains and the losses while investigating whether loss aversion exists in the process. I will be assessing risky and riskless stakes with loss aversion included to determine if there exists an association between them. Foremost, individuals that project loss aversion in riskless stakes are more likely to also project that in risky stakes. Many of the deductions made in this proposal will be made based on previous research and field experiments performed by researchers and notable economists. My motivation in writing this research is due to a paper published that has presented factual data that shows small stake gambles having no implication on the expected utility theory (Cox, J.C. and Sadiraj, V., 2004).  
+
+
+\section{Methodology}
+
+Loss aversion is the act or preference to steer away from losses even if the possibility of acquiring gains is present. This is well projected in the expression “losses loom larger than gains” (Kahneman and Tversky, 1979). The concept of loss aversion can exist in two different scenarios; risky and riskless stakes. An example of a risky stake with loss aversion is the endowment effect. The endowment effect is the act of assigning a larger value on an asset merely because the individual owns it – It is essentially overvaluing an asset an individual owns because they are reluctant to part with it. On the other hand, an example of a risky stake with loss aversion is small or even infinitesimal stakes that are done with some losses but with positive gains as well (Gächter, 2017).
+
+\newpage
+
+ To understand the rationale behind this, we need to refer to the expected utility theory. The expected utility theory states that the decision maker chooses between risky or uncertain prospects by comparing their expected utility values and their final outcomes (Mongin, P., 1997).                               It is derived from a utility that is concave over a utility-wealth function. The expected utility theory has been proven to be inadequate in some areas and has developed some anomalies which may be incongruent with the theory’s efficiency; i.e. some individuals are more sensitive to losses than gains. The inability of the expected utility theory to provide an explanation and plausible account for risk aversion over modest stakes has been portrayed in many different contexts with a subset of researchers in the academic field (Rabin, 2000). 
+ 
+ \paragraph{} 
+ 
+ Economic research regarding a decision under risk aversion usually assumes that individuals will maximize their expected utility. This has been shown in a paper published by Camerer and Thaler (Camerer, 1995). The degree of risk during small stakes has shown irregularities in terms of the magnitude of loss aversion it causes. A paper published by Matthew Rabin showed that small stakes in comparison to large stakes in terms of risk aversion are unrealistic in terms of the degree of loss aversion under expected utility (Rabin, 2000). This paper shows that if an individual rejects a small stake gamble considering he is risk-averse, then he most definitely will reject a large stake gamble as well due to his preferences.
+ 
+\paragraph{}
+ 
+ 
+ An alternative model to the expected utility theory is prospect theory; which was created and further developed by Daniel Kahneman and Amos Tversky in 1979 (Kahneman and Tversky, 1979). Prospect theory is a more descriptive theory than the expected utility theory. It pursues to describe how individuals behave based on their bounds of rationality. An example of Prospect theory could be lottery tickets. With lottery tickets, the value of the ticket (by value, I mean the odds of winning) is considerably less than the cost of buying the lottery ticket. But the prospect of winning convinces you to buy the ticket anyway. There are some key elements to Prospect theory; such as a value that is concave for gains and convex for losses, and that it overvalues small stakes while undervaluing large stakes (Kahneman and Tversky, 1992). It assumes that individuals make decisions based on the number of gains and losses from a random reference starting point, rather than the final outcomes. Prospect theory suggests that decision makers exhibit three consistent violations of the expected utility theory (Sebora, T.C. and Cornwall, J.R., 1995). 
+
+\paragraph{}
+
+To measure loss aversion, we need to determine a model that includes all the parameters required to determine utility values completely. The problem with prospect theory is that it assumes that individuals weight for losses are different than the weight they assign for gains. A paper was published in 2007 by Abdellaoui and Bleichrodt that suggested designing a model that would be parameter-free would be more favorable for the outcome of the experiment because the parametric measurements of loss aversion depend on the suitability of the functional forms; therefore no one knows whether the results are driven by the data or the parameters imposed on the model (Abdellaoui, M., Bleichrodt, H. and Paraschiv, C., 2007).
+
+\paragraph{}
+ 
+Based on the continuous Rabin and Thaler argument, we can assume that an individual will reject any small stake gamble based on a 50\% probability of winning or losing due to loss aversion. To measure loss aversion and the decision behind it, we must involve mental accounting. Mental accounting is a term coined by Thaler which allows people to analyse and evaluate their financial options, probabilities, and outcomes. An experiment performed in 1989 shows a violation of the expected utility theory in its pure form due to the endowment effect as stated previously (Knetsch, J.L., 1989). The participants were given one of two rewards and were also given the ability to trade the goods between each other. Assuming we follow the reversibility of indifference curves, we would expect at least 50\% of the participants to trade; but surprisingly, hardly any of the participants have traded. This result violates the completeness axiom which states that given any pair of lotteries, the participant either prefers one over the other or is indifferent to both choices.
+
+\paragraph{}     
+
+
+
+\section{Conclusion}
+                                                                                                                                                                                                                                                  
+
+Although most publications that were mentioned in this literature review are noteworthy and have presented solid empirical evidence, there is still more research to be done in the field of Behavioural Economics. This research will help substantiate the case for whether loss aversion exists in small and large stake gambles. It would be preferable to repeat the experiment performed by Knetsch and adjust some of the parameters and include different choices; we might arrive at a different conclusion. The paper by Kahneman and Tversky (1979) was and still is the most notable paper published in terms of the advancement of finding a suitable alternative to the expected utility theory which was Prospect theory. Moreover, the papers that I have chosen all focus on utilities and loss aversion; some of which agree with the notion that loss aversion exists and some that do not. The motivation behind this research is to broaden the understanding of Behavioural Economics; specialising in Prospect theory and loss aversion. This research paper will help expand on the methodology and ideas used in Thaler, Kahneman, and Tversky papers, while also adding more empirical evidence to substantiate how and why loss aversion exists in small and large stake gambles.  
+
+
+\newpage
+
+\section{References}
+
+ 1- Kahneman, D. and Tversky, A., 2013. Prospect theory: An analysis of decision under risk. In Handbook of the fundamentals of financial decision making: Part I (pp. 99-127).
+\paragraph{} 
+2- Measuring loss aversion using simple experiments. (2007). [ebook] Simon Gächter, Eric J. Johnson and Andreas Herrmann. Available at: https://www.nottingham.ac.uk/cedex/documents/papers/2007-02.pdf [Accessed 15 Apr. 2018].
+\paragraph{}
+3- Mongin, P., 1997. Expected utility theory. Handbook of economic methodology, 342350.
+\paragraph{}
+4- Rabin, M., 2000. Risk aversion and expected‐utility theory: A calibration theorem. Econometrica, 68(5), pp.1281-1292.
+\paragraph{}
+5- Camerer, C.F. and Thaler, R.H., 1995. Anomalies: Ultimatums, dictators and manners. Journal of Economic perspectives, 9(2), pp.209-219.
+\paragraph{}
+6- Sebora, T.C. and Cornwall, J.R., 1995. Expected utility theory vs. prospect theory: Implications for strategic decision makers. Journal of Managerial Issues, pp.41-61.
+\paragraph{}
+7- Tversky, A. and Kahneman, D., 1992. Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and uncertainty, 5(4), pp.297-323.
+\paragraph{}
+8- Erev, I., Ert, E. and Yechiam, E., 2008. Loss aversion, diminishing sensitivity, and the effect of experience on repeated decisions. Journal of Behavioral Decision Making, 21(5), pp.575-597.
+\paragraph{}
+9- Abdellaoui, M., Bleichrodt, H. and Paraschiv, C., 2007. Loss Aversion Under Prospect Theory: A Parameter-Free Measurement. MANAGEMENT SCIENCE, 53(10), pp.1659-1674.
+\paragraph{}
+10- Cox, J.C. and Sadiraj, V., 2004. Implications of small-and large-stakes risk aversion for decision theory. Unpublished Manuscript.
+\paragraph{}
+11- Knetsch, J.L., 1989. The endowment effect and evidence of nonreversible indifference curves. The american Economic review, 79(5), pp.1277-1284.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
